@@ -4,4 +4,4 @@
 [milestone 4] (https://colab.research.google.com/drive/1lKgVk9JyFSM1uaLmDgNZX9q40CvXpwl_?usp=sharing.ipynp)
 [milestone 5] (https://colab.research.google.com/drive/10Aove034YuIuWFwthuk_7nwOD2CP2kFB?usp=sharing.ipynb)
 [milestone 6] (https://colab.research.google.com/drive/1iSaRskTGwSwsO0OJ05MsSPP2cg_HtBwz?usp=sharing.ipynb)
-[milestone 7](https://colab.research.google.com/drive/1uCGlD2fB9MKvrNJ2QIbCg_IQrtQ9MxD6?usp=sharing.ipynb)
+[milestone 7] (https://colab.research.google.com/drive/1uCGlD2fB9MKvrNJ2QIbCg_IQrtQ9MxD6?usp=sharing.ipynb)
